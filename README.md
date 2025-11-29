@@ -46,3 +46,4 @@ make
 ## Credits
 
 Powered by [llama.cpp](https://github.com/ggerganov/llama.cpp).
+Inspired by [Gemini Cli](https://github.com/google-gemini/gemini-cli)
