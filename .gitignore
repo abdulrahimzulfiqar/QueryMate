@@ -1,0 +1,23 @@
+# Build directories
+build/
+cmake-build-debug/
+.cache/
+
+# OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Large Models (should not be in git)
+models/*.gguf
+models/*.bin
+
+# User Data
+data/memory.txt
+data/llama_log.txt
